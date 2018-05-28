@@ -1,0 +1,2 @@
+Please Enter Only one IP per Line!!! 
+URLS are also Possible
