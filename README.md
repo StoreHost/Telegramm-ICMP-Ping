@@ -12,7 +12,7 @@ Monitoring-->> Telegramm: Server is OFFLINE!
 ```
 If the Server is Online and responding
 
-```mermaid
+``` mermaid
 sequenceDiagram
 Monitoring ->> Client: Are you there?
 Client-->>Monitoring: Yes im here
